@@ -109,3 +109,33 @@ ALTER TABLE `Order` ADD CONSTRAINT `Order_productId_fkey` FOREIGN KEY (`productI
 
 -- AddForeignKey
 ALTER TABLE `Order` ADD CONSTRAINT `Order_userId_fkey` FOREIGN KEY (`userId`) REFERENCES `User`(`id`) ON DELETE RESTRICT ON UPDATE CASCADE;
+
+-- 插入初始管理员角色（作业用，简化处理）
+INSERT INTO `User` (
+  `uuid`, 
+  `username`, 
+  `password`, 
+  `phone`, 
+  `role`
+) VALUES (
+  'admin-001',  -- 固定 uuid
+  'admin',      -- 用户名
+  '123456',     -- 密码（作业场景直接用明文）
+  '13800138000',-- 手机号
+  'ADMIN'       -- 角色为管理员
+);
+
+-- 可选：插入一个普通用户
+INSERT INTO `User` (
+  `uuid`, 
+  `username`, 
+  `password`, 
+  `phone`, 
+  `role`
+) VALUES (
+  'user-001', 
+  'user1', 
+  '123456', 
+  '13900139000', 
+  'USER'
+);
