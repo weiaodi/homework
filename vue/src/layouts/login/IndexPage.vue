@@ -11,11 +11,10 @@
           class="absolute top-0 left-0 w-full h-full bg-[url('https://picsum.photos/id/1071/1000/1000')] bg-cover bg-center"
         ></div>
       </div>
-      <!-- 校徽/LOGO -->
       <el-image
         :src="'http://www.djtu.edu.cn/Upload/image/20230322/bdb6ba07-aaee-4c66-9c9a-faa8bad7ba53.png'"
         fit="contain"
-        class="w-3/4 h-auto transition-all duration-500 hover:scale-105"
+        class="w-5/6 h-auto transition-all duration-500 hover:scale-105"
       ></el-image>
       <!-- 左侧文字说明 -->
       <div class="absolute bottom-10 text-white text-center px-8">
@@ -24,7 +23,7 @@
       </div>
     </aside>
 
-    <!-- 右半部分 - 登录表单区域 -->
+    <!-- 右半部分 - 登录表单区域（无修改） -->
     <article
       class="w-7/12 h-full flex flex-col gap-12 justify-center items-center px-16"
     >
