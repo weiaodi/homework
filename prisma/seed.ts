@@ -146,7 +146,7 @@ async function main() {
         introduce:
           '校区间师生接送专用，配备空调、舒适座椅，符合高校通勤安全标准',
         poster:
-          'https://th.bing.com/th/id/R.e1ea85f01044a1a5cb87b184385caf12?rik=l7eR3VTe2f1V7Q&riu=http%3a%2f%2fimgwww.yutong.com%2fimage%2fproduct%2f20151126%2f2015KZQyMEa5a6.jpg&ehk=MSeTYKZAU8I2pZPlhV%2f8fgKCpBcPWY9Y4oEWUUo%2bano%3d&risl=&pid=ImgRaw&r=0',
+          'https://img1.xcarimg.com/news/3/36976/37807/846_20201021183253971595913723472.jpg',
       },
       {
         name: '大连交大教学用新能源轿车',
@@ -154,7 +154,7 @@ async function main() {
         price: 159800.0,
         introduce: '汽车工程学院教学专用，用于新能源汽车原理教学、学生实操训练',
         poster:
-          'https://th.bing.com/th/id/R.70147092b4e54b941d0fcf10a016e04c?rik=0woemJW9wHADJQ&riu=http%3a%2f%2fimg.pcauto.com.cn%2fimages%2fttauto%2f2023%2f02%2f08%2f7197324974594769445%2ffbb01fed3d8546888a156425a43e425f.png&ehk=UHJNObBTNJdX4XqMh%2bOVwMmwL7xTRCKG2xkFAYa08BA%3d&risl=&pid=ImgRaw&r=0',
+          'https://n.sinaimg.cn/sinakd20230210s/131/w974h757/20230210/ea7e-44e3fb305c52024beda51377128bea33.png',
       },
       {
         name: '大连交大科研用皮卡',
@@ -171,7 +171,7 @@ async function main() {
         price: 69800.0,
         introduce: '后勤保障处专用，用于校园物资运输、设备维修、日常通勤',
         poster:
-          'https://th.bing.com/th/id/R.61f2c27c75cdd3e14e0ab008ae04ecf8?rik=YERmaIOXtp6y5Q&riu=http%3a%2f%2fp4.itc.cn%2fc_cut%2cx_0%2cy_0%2cw_1680%2ch_1120%2fimages01%2f20200515%2fbf384faa7f2b4f24b8ae8a81fdf2f89b.jpeg&ehk=%2bYH7u4xO77t1vuhqThRXrbtwYU1VZEXjhX8Clr5F%2fVc%3d&risl=&pid=ImgRaw&r=0',
+          'https://img1.xcarimg.com/aikahao/f1/87/f187b27ec402916e7be25c07eac7f8e4.jpeg-w852wm0.jpg',
       },
     ],
     skipDuplicates: true,

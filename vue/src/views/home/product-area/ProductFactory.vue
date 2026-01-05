@@ -128,52 +128,30 @@ export default {
         ],
       },
       types: [
-        { poster: 'http://cdn.tako.top/product/product01.png', label: '卡车' },
-        { poster: 'http://cdn.tako.top/product/product02.png', label: '客车' },
         {
-          poster: 'http://cdn.tako.top/product/product03.png',
+          poster:
+            'https://img11.kcimg.cn/officialpic/0/17/juozz.jpg_1200x800.jpg',
+          label: '卡车',
+        },
+        {
+          poster:
+            'https://img1.xcarimg.com/news/3/36976/37807/846_20201021183253971595913723472.jpg',
+          label: '客车',
+        },
+        {
+          poster:
+            'https://n.sinaimg.cn/sinakd20230210s/131/w974h757/20230210/ea7e-44e3fb305c52024beda51377128bea33.png',
           label: '中型轿车',
         },
         {
-          poster: 'http://cdn.tako.top/product/product04.png',
+          poster:
+            'https://img1.xcarimg.com/aikahao/f1/87/f187b27ec402916e7be25c07eac7f8e4.jpeg-w852wm0.jpg',
           label: '旅行车',
-        },
-        {
-          poster: 'http://cdn.tako.top/product/product05.png',
-          label: '敞篷跑车',
-        },
-        {
-          poster: 'http://cdn.tako.top/product/product06.png',
-          label: '商务轿车',
-        },
-        { poster: 'http://cdn.tako.top/product/product07.png', label: '房车' },
-        {
-          poster: 'http://cdn.tako.top/product/product08.png',
-          label: '大型拖车',
-        },
-        {
-          poster: 'http://cdn.tako.top/product/product09.png',
-          label: '两厢式轿车',
-        },
-        {
-          poster: 'http://cdn.tako.top/product/product10.png',
-          label: '双门轿车',
         },
         {
           poster:
             'https://tse4.mm.bing.net/th/id/OIP.0m87H3O3pVBxTat5CTrU0gHaEK?rs=1&pid=ImgDetMain&o=7&rm=3',
           label: '越野车',
-        },
-        { poster: 'http://cdn.tako.top/product/product12.png', label: '跑车' },
-        {
-          poster: 'http://cdn.tako.top/product/product13.png',
-          label: '紧凑型轿车',
-        },
-        { poster: 'http://cdn.tako.top/product/product14.png', label: '拖车' },
-        { poster: 'http://cdn.tako.top/product/product15.png', label: '货车' },
-        {
-          poster: 'http://cdn.tako.top/product/product16.png',
-          label: '冰淇淋车',
         },
       ],
     };
